@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /coleman_bitbucket_output.txt
+/coleman-bitbucket-api-challenge.zip

@@ -1,3 +1,7 @@
+# Coleman McClelland
+# Calance Interview Coding Challenge
+# February 9, 2021
+
 import urllib.request as rq
 import json
 import datetime
