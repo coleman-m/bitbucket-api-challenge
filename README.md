@@ -19,4 +19,9 @@ The solution can be in any language you choose.
 
 ### Part 2: 
 
-For the second part, we would like you to send your code into that same repository.
+~~For the second part, we would like you to send your code into that same repository.~~  
+There were issues with access to the repo. Ignore this step.
+
+### Part 3:
+
+Finally, rewrite your solution in C#

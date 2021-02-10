@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitbucket-api-challenge", "bitbucket-api-challenge.csproj", "{4852D6CB-E9CA-46A4-AD0A-55AB696F9823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4852D6CB-E9CA-46A4-AD0A-55AB696F9823}.Debug|x86.ActiveCfg = Debug|x86
+		{4852D6CB-E9CA-46A4-AD0A-55AB696F9823}.Debug|x86.Build.0 = Debug|x86
+		{4852D6CB-E9CA-46A4-AD0A-55AB696F9823}.Release|x86.ActiveCfg = Release|x86
+		{4852D6CB-E9CA-46A4-AD0A-55AB696F9823}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76CF0B9-EFA2-40BC-A72C-655A0FB35C92}
+	EndGlobalSection
+EndGlobal
