@@ -4,8 +4,9 @@ Coleman McClelland's submission for Calance's coding challenge _Feb. 2021_
 ---
 ## Running the Code
 
-1. Navigate to the folder containing 'coleman_bitbucket.py'
-2. Run using: 'python3 coleman_bitbucket.py'
+1. Navigate to the folder containing 'ColemanBitbucketApiChallenge.exe'
+2. Run by double-clicking
+3. The output file should be generated in the same directory
 
 ---
 ## Problem Description
@@ -19,9 +20,8 @@ The solution can be in any language you choose.
 
 ### Part 2: 
 
-~~For the second part, we would like you to send your code into that same repository.~~  
-There were issues with access to the repo. Ignore this step.
+For the second part, we would like you to send your code into that same repository.
 
 ### Part 3:
 
-Finally, rewrite your solution in C#
+Finally, rewrite the solution in C#.
